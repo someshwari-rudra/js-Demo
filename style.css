@@ -1,0 +1,16 @@
+.error{
+    border: 1px solid red !important;
+}
+.success{
+    border: 1px solid  rgb(189, 189, 189) !important;
+}
+input.error,
+select.error,
+textarea.error {
+    outline: none;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+
+    
+}
